@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">星星相机</string>
+    <string name="image_view">image_view</string>
+    <string name="import_image">相册</string>
+    <string name="返回">\u2190返  回</string>
+    <string name="确定">确  定\u2192</string>
+    <string name="返回主页">\u2190返  回</string>
+    <string name="保存图片">保存图片</string>
+    <string name="capture_image">拍照</string>
+
+</resources>
