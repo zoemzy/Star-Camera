@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\StarCamera\OpenCV\.cxx\Debug\a1e2b6a1\x86_64'
+ninja: no work to do.
